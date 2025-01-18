@@ -91,3 +91,4 @@ https://key.getcidapi.com/api/keys_check?api_key=your_api_key_here&keys=Q6GKM-RT
 Начните проверку лицензионных ключей Microsoft уже сегодня!  
 Интегрируйте наш **PID Checker API** в свой рабочий процесс и упрощайте управление лицензиями. Узнайте больше:  
 👉 [https://msconfirmationid.com/ms-pid-checker-api/](https://msconfirmationid.com/ms-pid-checker-api/)
+**Примечание:** Оплата в RUB и криптовалюте. Для помощи: Telegram: [@CIDAdmin](https://t.me/CIDAdmin), Email: [care@msconfirmationid.com](mailto:care@msconfirmationid.com), Skype: live:.cid.afc21522bf98cf1b.
